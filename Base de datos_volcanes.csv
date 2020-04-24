@@ -1,4 +1,4 @@
-Fecha;Precipitación;Des Máxima;Mínima;Máxima;alt Mínima;alt Máxima;Desplaza;loc Mínimo;loc maximo;Flujo de lava
+Fecha;PrecipitaciÃ³n;Des MÃ¡xima;MÃ­nima;MÃ¡xima;alt MÃ­nima;alt MÃ¡xima;Desplaza;loc MÃ­nimo;loc maximo;Flujo de lava
 01/03/20;0;-;11;14;4300;4700;20;1;2;0
 02/03/20;1.2;4400;13;17;4500;4700;23;1;5;0
 03/03/20;1.7;4300;7;14;4400;4800;25;3;5;0
@@ -30,4 +30,4 @@ Fecha;Precipitación;Des Máxima;Mínima;Máxima;alt Mínima;alt Máxima;Desplaza;loc 
 29/03/20;0;4300;10;15;4500;4800;15;2;5;0
 30/03/20;0.6;4400;11;16;4500;4800;15;3;6;0
 31/03/20;7.4;4300;10;17;4500;4800;15;2;8;0
-;;;;;;;;;;0
+
